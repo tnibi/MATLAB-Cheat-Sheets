@@ -1,2 +1,4 @@
 # MATLAB-Cheat-Sheets
-MATLAB Cheat Sheets I have authored. 
+
+You can find our other cheat sheets here
+https://github.com/mathworks/awesome-matlab-students/tree/main/CheatSheets
